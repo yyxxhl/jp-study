@@ -1,0 +1,3466 @@
+{
+ "lessons": [
+  {
+   "number": 6,
+   "title": "あそこに リンさんが います",
+   "titleZh": "那儿有林先生"
+  },
+  {
+   "number": 7,
+   "title": "キムさんの アパートは あたらしいです",
+   "titleZh": "金小姐的公寓是新的"
+  },
+  {
+   "number": 8,
+   "title": "りんごを ５つ ください",
+   "titleZh": "请给我 5 个苹果"
+  },
+  {
+   "number": 9,
+   "title": "わたしは コーヒーを のみます",
+   "titleZh": "我喝咖啡"
+  },
+  {
+   "number": 10,
+   "title": "会社は 9時に はじまります",
+   "titleZh": "公司 9 点开始上班"
+  }
+ ],
+ "words": [
+  {
+   "id": "w6-1",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "たくさん",
+   "romaji": "takusan",
+   "pos": "副词",
+   "meaning": "很多，许多",
+   "order": 1
+  },
+  {
+   "id": "w6-2",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "います（いる）",
+   "romaji": "imasu (iru)",
+   "pos": "动词 1 自",
+   "meaning": "在，有",
+   "order": 2
+  },
+  {
+   "id": "w6-3",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "うしろ",
+   "kanji": "後ろ",
+   "romaji": "ushiro",
+   "pos": "名词",
+   "meaning": "后面",
+   "order": 3
+  },
+  {
+   "id": "w6-4",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "まど",
+   "kanji": "窓",
+   "romaji": "mado",
+   "pos": "名词",
+   "meaning": "窗户",
+   "order": 4
+  },
+  {
+   "id": "w6-5",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "スミス",
+   "romaji": "Sumisu",
+   "pos": "人名",
+   "meaning": "史密斯（人名·姓）",
+   "order": 5
+  },
+  {
+   "id": "w6-6",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "どの",
+   "romaji": "dono",
+   "pos": "疑问词",
+   "meaning": "哪个",
+   "order": 6
+  },
+  {
+   "id": "w6-7",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ひと",
+   "kanji": "人",
+   "romaji": "hito",
+   "pos": "名词",
+   "meaning": "人",
+   "order": 7
+  },
+  {
+   "id": "w6-8",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "まえ",
+   "kanji": "前",
+   "romaji": "mae",
+   "pos": "名词",
+   "meaning": "前面",
+   "order": 8
+  },
+  {
+   "id": "w6-9",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "どこ",
+   "romaji": "doko",
+   "pos": "疑问词",
+   "meaning": "哪里，哪儿",
+   "order": 9
+  },
+  {
+   "id": "w6-10",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "くに",
+   "kanji": "国",
+   "romaji": "kuni",
+   "pos": "名词",
+   "meaning": "国家",
+   "order": 10
+  },
+  {
+   "id": "w6-11",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おとこの ひと",
+   "kanji": "男の 人",
+   "romaji": "otoko no hito",
+   "pos": "名词",
+   "meaning": "男人",
+   "order": 11
+  },
+  {
+   "id": "w6-12",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おとこ",
+   "kanji": "男",
+   "romaji": "otoko",
+   "pos": "名词",
+   "meaning": "男性，男子",
+   "order": 12
+  },
+  {
+   "id": "w6-13",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "だれ",
+   "kanji": "誰",
+   "romaji": "dare",
+   "pos": "疑问词",
+   "meaning": "谁（不如“どなた”礼貌）",
+   "order": 13
+  },
+  {
+   "id": "w6-14",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "にん",
+   "kanji": "人",
+   "romaji": "nin",
+   "pos": "量词",
+   "meaning": "〜位，〜人",
+   "order": 14
+  },
+  {
+   "id": "w6-15",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ベトナム",
+   "romaji": "Betonamu",
+   "pos": "国名",
+   "meaning": "越南",
+   "order": 15
+  },
+  {
+   "id": "w6-16",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "タイ",
+   "romaji": "Tai",
+   "pos": "国名",
+   "meaning": "泰国",
+   "order": 16
+  },
+  {
+   "id": "w6-17",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "そうですか",
+   "romaji": "soodesuka",
+   "meaning": "是吗（表示确认）",
+   "order": 17
+  },
+  {
+   "id": "w6-18",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ひとり",
+   "kanji": "一人",
+   "romaji": "hitori",
+   "pos": "名词",
+   "meaning": "一个人",
+   "order": 18
+  },
+  {
+   "id": "w6-19",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おとうさん",
+   "kanji": "お父さん",
+   "romaji": "otoosan",
+   "pos": "名词",
+   "meaning": "（称呼别人的）父亲，爸爸",
+   "order": 19
+  },
+  {
+   "id": "w6-20",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おかあさん",
+   "kanji": "お母さん",
+   "romaji": "okaasan",
+   "pos": "名词",
+   "meaning": "（称呼别人的）母亲，妈妈",
+   "order": 20
+  },
+  {
+   "id": "w6-21",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おくに",
+   "kanji": "お国",
+   "romaji": "okuni",
+   "pos": "名词",
+   "meaning": "贵国",
+   "order": 21
+  },
+  {
+   "id": "w6-22",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ちち",
+   "kanji": "父",
+   "romaji": "chichi",
+   "pos": "名词",
+   "meaning": "（称呼自己的）父亲，爸爸",
+   "order": 22
+  },
+  {
+   "id": "w6-23",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "はは",
+   "kanji": "母",
+   "romaji": "haha",
+   "pos": "名词",
+   "meaning": "（称呼自己的）母亲，妈妈",
+   "order": 23
+  },
+  {
+   "id": "w6-24",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ごかぞく",
+   "kanji": "ご家族",
+   "romaji": "gokazoku",
+   "pos": "名词",
+   "meaning": "（称呼别人的）家人，家族",
+   "order": 24
+  },
+  {
+   "id": "w6-25",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おげんきですか",
+   "kanji": "お元気ですか",
+   "romaji": "ogenkidesuka",
+   "meaning": "你好吗？",
+   "order": 25
+  },
+  {
+   "id": "w6-26",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "おかげさまで げんきです",
+   "kanji": "おかげさまで 元気です",
+   "romaji": "okagesamade genkidesu",
+   "meaning": "托您的福，很好",
+   "order": 26
+  },
+  {
+   "id": "w6-27",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "そと",
+   "kanji": "外",
+   "romaji": "soto",
+   "pos": "名词",
+   "meaning": "外边，外面",
+   "order": 27
+  },
+  {
+   "id": "w6-28",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "いぬ",
+   "kanji": "犬",
+   "romaji": "inu",
+   "pos": "名词",
+   "meaning": "狗",
+   "order": 28
+  },
+  {
+   "id": "w6-29",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "としょしつ",
+   "kanji": "図書室",
+   "romaji": "toshoshitsu",
+   "pos": "名词",
+   "meaning": "图书室",
+   "order": 29
+  },
+  {
+   "id": "w6-30",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "おんなの ひと",
+   "kanji": "女の 人",
+   "romaji": "onna no hito",
+   "pos": "名词",
+   "meaning": "女人",
+   "order": 30
+  },
+  {
+   "id": "w6-31",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "おんな",
+   "kanji": "女",
+   "romaji": "onna",
+   "pos": "名词",
+   "meaning": "女性，女子",
+   "order": 31
+  },
+  {
+   "id": "w6-32",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "コンピューターきょうしつ",
+   "kanji": "コンピューター教室",
+   "romaji": "konpyuutaakyooshitsu",
+   "pos": "名词",
+   "meaning": "电脑教室",
+   "order": 32
+  },
+  {
+   "id": "w6-33",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "ドア",
+   "romaji": "doa",
+   "pos": "名词",
+   "meaning": "门",
+   "order": 33
+  },
+  {
+   "id": "w6-34",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "ひだり",
+   "kanji": "左",
+   "romaji": "hidari",
+   "pos": "名词",
+   "meaning": "左，左边",
+   "order": 34
+  },
+  {
+   "id": "w6-35",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "みぎ",
+   "kanji": "右",
+   "romaji": "migi",
+   "pos": "名词",
+   "meaning": "右，右边",
+   "order": 35
+  },
+  {
+   "id": "w6-36",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "かぞく",
+   "kanji": "家族",
+   "romaji": "kazoku",
+   "pos": "名词",
+   "meaning": "家人，家族",
+   "order": 36
+  },
+  {
+   "id": "w6-37",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "こども",
+   "kanji": "子供",
+   "romaji": "kodomo",
+   "pos": "名词",
+   "meaning": "小孩，孩子",
+   "order": 37
+  },
+  {
+   "id": "w6-38",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "おとな",
+   "kanji": "大人",
+   "romaji": "otona",
+   "pos": "名词",
+   "meaning": "大人",
+   "order": 38
+  },
+  {
+   "id": "w6-39",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "ふたり",
+   "kanji": "二人",
+   "romaji": "futari",
+   "pos": "名词",
+   "meaning": "两个人",
+   "order": 39
+  },
+  {
+   "id": "w6-40",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "おとこの こ",
+   "kanji": "男の 子",
+   "romaji": "otoko no ko",
+   "pos": "名词",
+   "meaning": "男孩儿",
+   "order": 40
+  },
+  {
+   "id": "w6-41",
+   "lesson": 6,
+   "section": "句型",
+   "kana": "おんなの こ",
+   "kanji": "女の 子",
+   "romaji": "onna no ko",
+   "pos": "名词",
+   "meaning": "女孩儿",
+   "order": 41
+  },
+  {
+   "id": "w6-42",
+   "lesson": 6,
+   "section": "会话",
+   "kana": "ねこ",
+   "kanji": "猫",
+   "romaji": "neko",
+   "pos": "名词",
+   "meaning": "猫",
+   "order": 42
+  },
+  {
+   "id": "w6-43",
+   "lesson": 6,
+   "section": "单词",
+   "kana": "ひゃく",
+   "kanji": "百",
+   "romaji": "hyaku",
+   "meaning": "一百",
+   "order": 43
+  },
+  {
+   "id": "w7-44",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "まち",
+   "kanji": "町",
+   "pos": "名词",
+   "meaning": "城市，街",
+   "order": 44
+  },
+  {
+   "id": "w7-45",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "しゃしん",
+   "kanji": "写真",
+   "pos": "名词",
+   "meaning": "照片",
+   "order": 45
+  },
+  {
+   "id": "w7-46",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "にぎやか（な）",
+   "pos": "ナ形容词",
+   "meaning": "热闹（的）",
+   "order": 46
+  },
+  {
+   "id": "w7-47",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "おおきい",
+   "kanji": "大きい",
+   "pos": "イ形容词",
+   "meaning": "大（的）",
+   "order": 47
+  },
+  {
+   "id": "w7-48",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "ビル",
+   "pos": "名词",
+   "meaning": "大厦，高楼",
+   "order": 48
+  },
+  {
+   "id": "w7-49",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "アパート",
+   "pos": "名词",
+   "meaning": "公寓",
+   "order": 49
+  },
+  {
+   "id": "w7-50",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "あたらしい",
+   "kanji": "新しい",
+   "pos": "イ形容词",
+   "meaning": "新（的）",
+   "order": 50
+  },
+  {
+   "id": "w7-51",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "ふるい",
+   "kanji": "古い",
+   "pos": "イ形容词",
+   "meaning": "旧（的）",
+   "order": 51
+  },
+  {
+   "id": "w7-52",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "しずか（な）",
+   "kanji": "静か（な）",
+   "pos": "ナ形容词",
+   "meaning": "安静（的）",
+   "order": 52
+  },
+  {
+   "id": "w7-53",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "どんな",
+   "pos": "疑问词",
+   "meaning": "什么样的",
+   "order": 53
+  },
+  {
+   "id": "w7-54",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "ひろい",
+   "kanji": "広い",
+   "pos": "イ形容词",
+   "meaning": "宽阔（的），宽敞（的）",
+   "order": 54
+  },
+  {
+   "id": "w7-55",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "そして",
+   "pos": "接续词",
+   "meaning": "而且",
+   "order": 55
+  },
+  {
+   "id": "w7-56",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "あかるい",
+   "kanji": "明るい",
+   "pos": "イ形容词",
+   "meaning": "明亮（的）",
+   "order": 56
+  },
+  {
+   "id": "w7-57",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "せまい",
+   "kanji": "狭い",
+   "pos": "イ形容词",
+   "meaning": "狭窄（的）",
+   "order": 57
+  },
+  {
+   "id": "w7-58",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "けれども",
+   "pos": "接续词",
+   "meaning": "但是（表示转折）",
+   "order": 58
+  },
+  {
+   "id": "w7-59",
+   "lesson": 7,
+   "section": "会话",
+   "kana": "きれい（な）",
+   "pos": "ナ形容词",
+   "meaning": "漂亮（的），干净（的）",
+   "order": 59
+  },
+  {
+   "id": "w7-60",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "いい",
+   "pos": "イ形容词",
+   "meaning": "好（的）",
+   "order": 60
+  },
+  {
+   "id": "w7-61",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "きょうと",
+   "kanji": "京都",
+   "pos": "地名",
+   "meaning": "京都",
+   "order": 61
+  },
+  {
+   "id": "w7-62",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "ゆうめい（な）",
+   "kanji": "有名（な）",
+   "pos": "ナ形容词",
+   "meaning": "有名（的）",
+   "order": 62
+  },
+  {
+   "id": "w7-63",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "ながい",
+   "kanji": "長い",
+   "pos": "イ形容词",
+   "meaning": "长（的）",
+   "order": 63
+  },
+  {
+   "id": "w7-64",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "みじかい",
+   "kanji": "短い",
+   "pos": "イ形容词",
+   "meaning": "短（的）",
+   "order": 64
+  },
+  {
+   "id": "w7-65",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "かるい",
+   "kanji": "軽い",
+   "pos": "イ形容词",
+   "meaning": "轻（的）",
+   "order": 65
+  },
+  {
+   "id": "w7-66",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "くらい",
+   "kanji": "暗い",
+   "pos": "イ形容词",
+   "meaning": "暗（的）",
+   "order": 66
+  },
+  {
+   "id": "w7-67",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "ちいさい",
+   "kanji": "小さい",
+   "pos": "イ形容词",
+   "meaning": "小（的）",
+   "order": 67
+  },
+  {
+   "id": "w7-68",
+   "lesson": 7,
+   "section": "句型",
+   "kana": "おもい",
+   "kanji": "重い",
+   "pos": "イ形容词",
+   "meaning": "重（的）",
+   "order": 68
+  },
+  {
+   "id": "w8-69",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "いらっしゃいませ",
+   "meaning": "欢迎光临",
+   "order": 69
+  },
+  {
+   "id": "w8-70",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "りんご",
+   "pos": "名词",
+   "meaning": "苹果",
+   "order": 70
+  },
+  {
+   "id": "w8-71",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "いくら",
+   "pos": "疑问词",
+   "meaning": "多少钱",
+   "order": 71
+  },
+  {
+   "id": "w8-72",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "ひとつ",
+   "kanji": "一つ",
+   "pos": "名词",
+   "meaning": "一个",
+   "order": 72
+  },
+  {
+   "id": "w8-73",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "えん",
+   "kanji": "円",
+   "meaning": "日元",
+   "order": 73
+  },
+  {
+   "id": "w8-74",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "やすい",
+   "kanji": "安い",
+   "pos": "イ形容词",
+   "meaning": "便宜（的）",
+   "order": 74
+  },
+  {
+   "id": "w8-75",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "おいしい",
+   "pos": "イ形容词",
+   "meaning": "好吃 , 美味（的）",
+   "order": 75
+  },
+  {
+   "id": "w8-76",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "いくつ",
+   "pos": "疑问词",
+   "meaning": "几个",
+   "order": 76
+  },
+  {
+   "id": "w8-77",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "いつつ",
+   "kanji": "五つ",
+   "pos": "名词",
+   "meaning": "五个",
+   "order": 77
+  },
+  {
+   "id": "w8-78",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "それから",
+   "pos": "接续词",
+   "meaning": "还有，另外",
+   "order": 78
+  },
+  {
+   "id": "w8-79",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "トマト",
+   "pos": "名词",
+   "meaning": "西红柿，番茄",
+   "order": 79
+  },
+  {
+   "id": "w8-80",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "ふたつ",
+   "kanji": "二つ",
+   "pos": "名词",
+   "meaning": "两个",
+   "order": 80
+  },
+  {
+   "id": "w8-81",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "よっつ",
+   "kanji": "四つ",
+   "pos": "名词",
+   "meaning": "四个",
+   "order": 81
+  },
+  {
+   "id": "w8-82",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "ぜんぶ",
+   "kanji": "全部",
+   "pos": "副词",
+   "meaning": "全部",
+   "order": 82
+  },
+  {
+   "id": "w8-83",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "はい",
+   "meaning": "给你（用于递给对方东西时）",
+   "order": 83
+  },
+  {
+   "id": "w8-84",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "つり／おつり",
+   "kanji": "釣り／お釣り",
+   "pos": "名词",
+   "meaning": "找的零钱",
+   "order": 84
+  },
+  {
+   "id": "w8-85",
+   "lesson": 8,
+   "section": "会话",
+   "kana": "ありがとう ございました",
+   "meaning": "谢谢了",
+   "order": 85
+  },
+  {
+   "id": "w8-86",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "きって",
+   "kanji": "切手",
+   "pos": "名词",
+   "meaning": "邮票",
+   "order": 86
+  },
+  {
+   "id": "w8-87",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "みかん",
+   "pos": "名词",
+   "meaning": "桔子",
+   "order": 87
+  },
+  {
+   "id": "w8-88",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "バナナ",
+   "pos": "名词",
+   "meaning": "香蕉",
+   "order": 88
+  },
+  {
+   "id": "w8-89",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "ふうとう",
+   "kanji": "封筒",
+   "pos": "名词",
+   "meaning": "信封",
+   "order": 89
+  },
+  {
+   "id": "w8-90",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "たまご",
+   "kanji": "卵／玉子",
+   "pos": "名词",
+   "meaning": "鸡蛋",
+   "order": 90
+  },
+  {
+   "id": "w8-91",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "みっつ",
+   "kanji": "三つ",
+   "pos": "名词",
+   "meaning": "三个",
+   "order": 91
+  },
+  {
+   "id": "w8-92",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "むっつ",
+   "kanji": "六つ",
+   "pos": "名词",
+   "meaning": "六个",
+   "order": 92
+  },
+  {
+   "id": "w8-93",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "はがき",
+   "kanji": "葉書",
+   "pos": "名词",
+   "meaning": "明信片",
+   "order": 93
+  },
+  {
+   "id": "w8-94",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "かね／おかね",
+   "kanji": "金／お金",
+   "pos": "名词",
+   "meaning": "钱",
+   "order": 94
+  },
+  {
+   "id": "w8-95",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "たかい",
+   "kanji": "高い",
+   "pos": "イ形容词",
+   "meaning": "贵（的）",
+   "order": 95
+  },
+  {
+   "id": "w8-96",
+   "lesson": 8,
+   "section": "句型",
+   "kana": "ななつ",
+   "kanji": "七つ",
+   "pos": "名词",
+   "meaning": "七个",
+   "order": 96
+  },
+  {
+   "id": "w8-97",
+   "lesson": 8,
+   "section": "单词",
+   "kana": "やっつ",
+   "kanji": "八つ",
+   "pos": "名词",
+   "meaning": "八个",
+   "order": 97
+  },
+  {
+   "id": "w8-98",
+   "lesson": 8,
+   "section": "单词",
+   "kana": "ここのつ",
+   "kanji": "九つ",
+   "pos": "名词",
+   "meaning": "九个",
+   "order": 98
+  },
+  {
+   "id": "w8-99",
+   "lesson": 8,
+   "section": "单词",
+   "kana": "とお",
+   "kanji": "十",
+   "pos": "名词",
+   "meaning": "十个",
+   "order": 99
+  },
+  {
+   "id": "w8-100",
+   "lesson": 8,
+   "section": "单词",
+   "kana": "せん",
+   "kanji": "千",
+   "meaning": "千",
+   "order": 100
+  },
+  {
+   "id": "w8-101",
+   "lesson": 8,
+   "section": "单词",
+   "kana": "まん",
+   "kanji": "万",
+   "meaning": "万",
+   "order": 101
+  },
+  {
+   "id": "w9-102",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "ウエイトレス",
+   "meaning": "女服务员",
+   "order": 102
+  },
+  {
+   "id": "w9-103",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "たべます（たべる）",
+   "kanji": "食べます",
+   "pos": "动词 1 他",
+   "meaning": "吃",
+   "order": 103
+  },
+  {
+   "id": "w9-104",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "カレーライス",
+   "pos": "名词",
+   "meaning": "咖喱饭",
+   "order": 104
+  },
+  {
+   "id": "w9-105",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "サンドイッチ",
+   "pos": "名词",
+   "meaning": "三明治",
+   "order": 105
+  },
+  {
+   "id": "w9-106",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "コーヒー",
+   "pos": "名词",
+   "meaning": "咖啡",
+   "order": 106
+  },
+  {
+   "id": "w9-107",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "のみます（のむ）",
+   "kanji": "飲みます",
+   "pos": "动词 5 他",
+   "meaning": "喝",
+   "order": 107
+  },
+  {
+   "id": "w9-108",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "きのう",
+   "pos": "名词",
+   "meaning": "昨天",
+   "order": 108
+  },
+  {
+   "id": "w9-109",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "します（する）",
+   "pos": "动词 不",
+   "meaning": "干，做",
+   "order": 109
+  },
+  {
+   "id": "w9-110",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "よみます（よむ）",
+   "kanji": "読みます",
+   "pos": "动词 5 他",
+   "meaning": "读，看（书）",
+   "order": 110
+  },
+  {
+   "id": "w9-111",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "それから",
+   "pos": "接续词",
+   "meaning": "还有，然后",
+   "order": 111
+  },
+  {
+   "id": "w9-112",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "ふく",
+   "kanji": "服",
+   "pos": "名词",
+   "meaning": "衣服",
+   "order": 112
+  },
+  {
+   "id": "w9-113",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "かいます（かう）",
+   "kanji": "買います",
+   "pos": "动词 5 他",
+   "meaning": "买",
+   "order": 113
+  },
+  {
+   "id": "w9-114",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "いっしょに",
+   "kanji": "一緒に",
+   "meaning": "一起",
+   "order": 114
+  },
+  {
+   "id": "w9-115",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "ひるごはん／おひるごはん",
+   "kanji": "昼御飯／お昼御飯",
+   "pos": "名词",
+   "meaning": "午饭",
+   "order": 115
+  },
+  {
+   "id": "w9-116",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "べんきょう",
+   "kanji": "勉強",
+   "pos": "名词",
+   "meaning": "学习",
+   "order": 116
+  },
+  {
+   "id": "w9-117",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "べんきょうします （べんきょうする）",
+   "kanji": "勉強します",
+   "pos": "动词 不",
+   "meaning": "学习",
+   "order": 117
+  },
+  {
+   "id": "w9-118",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "ええ",
+   "meaning": "是，对",
+   "order": 118
+  },
+  {
+   "id": "w9-119",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "よる",
+   "kanji": "夜",
+   "pos": "名词",
+   "meaning": "晚上",
+   "order": 119
+  },
+  {
+   "id": "w9-120",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "かきます（かく）",
+   "kanji": "書きます",
+   "pos": "动词 5 他",
+   "meaning": "写",
+   "order": 120
+  },
+  {
+   "id": "w9-121",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "かいわ",
+   "kanji": "会話",
+   "pos": "名词",
+   "meaning": "会话",
+   "order": 121
+  },
+  {
+   "id": "w9-122",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "かいわします （かいわする）",
+   "kanji": "会話します",
+   "pos": "动词 不",
+   "meaning": "会话",
+   "order": 122
+  },
+  {
+   "id": "w9-123",
+   "lesson": 9,
+   "section": "会话",
+   "kana": "ききます（きく）",
+   "kanji": "聞きます",
+   "pos": "动词 5 他",
+   "meaning": "听",
+   "order": 123
+  },
+  {
+   "id": "w9-124",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "あした",
+   "kanji": "明日",
+   "pos": "名词",
+   "meaning": "明天",
+   "order": 124
+  },
+  {
+   "id": "w9-125",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "えいが",
+   "kanji": "映画",
+   "pos": "名词",
+   "meaning": "电影",
+   "order": 125
+  },
+  {
+   "id": "w9-126",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "みます（みる）",
+   "kanji": "見ます",
+   "pos": "动词 1 他",
+   "meaning": "看，观看",
+   "order": 126
+  },
+  {
+   "id": "w9-127",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "あさって",
+   "pos": "名词",
+   "meaning": "后天",
+   "order": 127
+  },
+  {
+   "id": "w9-128",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "きょう",
+   "kanji": "今日",
+   "pos": "名词",
+   "meaning": "今天",
+   "order": 128
+  },
+  {
+   "id": "w9-129",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "てがみ",
+   "kanji": "手紙",
+   "pos": "名词",
+   "meaning": "信",
+   "order": 129
+  },
+  {
+   "id": "w9-130",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "しゅくだい",
+   "kanji": "宿題",
+   "pos": "名词",
+   "meaning": "作业",
+   "order": 130
+  },
+  {
+   "id": "w9-131",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "おととい",
+   "pos": "名词",
+   "meaning": "前天",
+   "order": 131
+  },
+  {
+   "id": "w9-132",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "くつ",
+   "kanji": "靴",
+   "pos": "名词",
+   "meaning": "鞋",
+   "order": 132
+  },
+  {
+   "id": "w9-133",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "ひる",
+   "kanji": "昼",
+   "pos": "名词",
+   "meaning": "中午，白天",
+   "order": 133
+  },
+  {
+   "id": "w9-134",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "あさごはん",
+   "kanji": "朝御飯",
+   "pos": "名词",
+   "meaning": "早饭",
+   "order": 134
+  },
+  {
+   "id": "w9-135",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "ひらがな",
+   "kanji": "平仮名",
+   "pos": "名词",
+   "meaning": "平假名",
+   "order": 135
+  },
+  {
+   "id": "w9-136",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "あさ",
+   "kanji": "朝",
+   "pos": "名词",
+   "meaning": "早上",
+   "order": 136
+  },
+  {
+   "id": "w9-137",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "ラジオ",
+   "pos": "名词",
+   "meaning": "收音机",
+   "order": 137
+  },
+  {
+   "id": "w9-138",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "ごはん",
+   "kanji": "御飯",
+   "pos": "名词",
+   "meaning": "饭，米饭",
+   "order": 138
+  },
+  {
+   "id": "w9-139",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "てんぷら",
+   "kanji": "天ぷら",
+   "pos": "名词",
+   "meaning": "天麸罗",
+   "order": 139
+  },
+  {
+   "id": "w9-140",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "かたかな",
+   "kanji": "片仮名",
+   "pos": "名词",
+   "meaning": "片假名",
+   "order": 140
+  },
+  {
+   "id": "w9-141",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "ばんごはん",
+   "kanji": "晩御飯",
+   "pos": "名词",
+   "meaning": "晚饭",
+   "order": 141
+  },
+  {
+   "id": "w9-142",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "すこし",
+   "kanji": "少し",
+   "pos": "副词",
+   "meaning": "一点儿，少量",
+   "order": 142
+  },
+  {
+   "id": "w9-143",
+   "lesson": 9,
+   "section": "句型",
+   "kana": "パスポート",
+   "pos": "名词",
+   "meaning": "护照",
+   "order": 143
+  },
+  {
+   "id": "w9-144",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "たべもの",
+   "kanji": "食べ物",
+   "pos": "名词",
+   "meaning": "食品，吃的东西",
+   "order": 144
+  },
+  {
+   "id": "w9-145",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "すし／おすし",
+   "pos": "名词",
+   "meaning": "寿司",
+   "order": 145
+  },
+  {
+   "id": "w9-146",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "のみもの",
+   "kanji": "飲み物",
+   "pos": "名词",
+   "meaning": "饮料，喝的东西",
+   "order": 146
+  },
+  {
+   "id": "w9-147",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "ちゃ／おちゃ",
+   "kanji": "茶／お茶",
+   "pos": "名词",
+   "meaning": "茶",
+   "order": 147
+  },
+  {
+   "id": "w9-148",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "こうちゃ",
+   "kanji": "紅茶",
+   "pos": "名词",
+   "meaning": "红茶",
+   "order": 148
+  },
+  {
+   "id": "w9-149",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "ビール",
+   "pos": "名词",
+   "meaning": "啤酒",
+   "order": 149
+  },
+  {
+   "id": "w9-150",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "ワイン",
+   "pos": "名词",
+   "meaning": "葡萄酒",
+   "order": 150
+  },
+  {
+   "id": "w9-151",
+   "lesson": 9,
+   "section": "单词",
+   "kana": "さけ／おさけ",
+   "kanji": "酒／お酒",
+   "pos": "名词",
+   "meaning": "酒，清酒",
+   "order": 151
+  },
+  {
+   "id": "w10-152",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "ひろし",
+   "pos": "人名",
+   "meaning": "ひろし（人名・名字）",
+   "order": 152
+  },
+  {
+   "id": "w10-153",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "いま",
+   "kanji": "今",
+   "pos": "名词",
+   "meaning": "现在，目前，眼下",
+   "order": 153
+  },
+  {
+   "id": "w10-154",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "じ",
+   "kanji": "時",
+   "meaning": "〜点（表示时间）",
+   "order": 154
+  },
+  {
+   "id": "w10-155",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "ふん／ぷん",
+   "kanji": "分",
+   "meaning": "〜分（表示时间）",
+   "order": 155
+  },
+  {
+   "id": "w10-156",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "はじまります（はじまる）",
+   "kanji": "始まります",
+   "pos": "动词 5 自",
+   "meaning": "开始",
+   "order": 156
+  },
+  {
+   "id": "w10-157",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "おきます（おきる）",
+   "kanji": "起きます",
+   "pos": "动词 1 自",
+   "meaning": "起床",
+   "order": 157
+  },
+  {
+   "id": "w10-158",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "おわります（おわる）",
+   "kanji": "終わります",
+   "pos": "动词 5 自",
+   "meaning": "结束",
+   "order": 158
+  },
+  {
+   "id": "w10-159",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "はん",
+   "kanji": "半",
+   "meaning": "〜（点）半",
+   "order": 159
+  },
+  {
+   "id": "w10-160",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "ごご",
+   "kanji": "午後",
+   "pos": "名词",
+   "meaning": "下午",
+   "order": 160
+  },
+  {
+   "id": "w10-161",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "プール",
+   "pos": "名词",
+   "meaning": "游泳池",
+   "order": 161
+  },
+  {
+   "id": "w10-162",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "およぎます（およぐ）",
+   "kanji": "泳ぎます",
+   "pos": "动词 5 自",
+   "meaning": "游泳",
+   "order": 162
+  },
+  {
+   "id": "w10-163",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "まいにち",
+   "kanji": "毎日",
+   "pos": "名词",
+   "meaning": "每天",
+   "order": 163
+  },
+  {
+   "id": "w10-164",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "げつようび",
+   "kanji": "月曜日",
+   "pos": "名词",
+   "meaning": "星期一",
+   "order": 164
+  },
+  {
+   "id": "w10-165",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "もくようび",
+   "kanji": "木曜日",
+   "pos": "名词",
+   "meaning": "星期四",
+   "order": 165
+  },
+  {
+   "id": "w10-166",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "スポーツ",
+   "pos": "名词",
+   "meaning": "运动，体育运动",
+   "order": 166
+  },
+  {
+   "id": "w10-167",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "テニス",
+   "pos": "名词",
+   "meaning": "网球",
+   "order": 167
+  },
+  {
+   "id": "w10-168",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "せんしゅう",
+   "kanji": "先週",
+   "pos": "名词",
+   "meaning": "上个星期，上周",
+   "order": 168
+  },
+  {
+   "id": "w10-169",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "にちようび",
+   "kanji": "日曜日",
+   "pos": "名词",
+   "meaning": "星期日",
+   "order": 169
+  },
+  {
+   "id": "w10-170",
+   "lesson": 10,
+   "section": "会话",
+   "kana": "こうえん",
+   "kanji": "公園",
+   "pos": "名词",
+   "meaning": "公园",
+   "order": 170
+  },
+  {
+   "id": "w10-171",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "よじ",
+   "kanji": "四時",
+   "meaning": "4 点",
+   "order": 171
+  },
+  {
+   "id": "w10-172",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "まえ",
+   "kanji": "前",
+   "meaning": "之前",
+   "order": 172
+  },
+  {
+   "id": "w10-173",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "ごろ",
+   "meaning": "大概，〜左右",
+   "order": 173
+  },
+  {
+   "id": "w10-174",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "かようび",
+   "kanji": "火曜日",
+   "pos": "名词",
+   "meaning": "星期二",
+   "order": 174
+  },
+  {
+   "id": "w10-175",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "すいようび",
+   "kanji": "水曜日",
+   "pos": "名词",
+   "meaning": "星期三",
+   "order": 175
+  },
+  {
+   "id": "w10-176",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "ごぜん",
+   "kanji": "午前",
+   "pos": "名词",
+   "meaning": "上午",
+   "order": 176
+  },
+  {
+   "id": "w10-177",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "はたらきます（はたらく）",
+   "kanji": "働きます",
+   "pos": "动词 5 自",
+   "meaning": "工作，劳动",
+   "order": 177
+  },
+  {
+   "id": "w10-178",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "こんしゅう",
+   "kanji": "今週",
+   "pos": "名词",
+   "meaning": "这个星期，这周",
+   "order": 178
+  },
+  {
+   "id": "w10-179",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "きんようび",
+   "kanji": "金曜日",
+   "pos": "名词",
+   "meaning": "星期五",
+   "order": 179
+  },
+  {
+   "id": "w10-180",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "ねます（ねる）",
+   "kanji": "寝ます",
+   "pos": "动词 1 自",
+   "meaning": "睡觉，睡",
+   "order": 180
+  },
+  {
+   "id": "w10-181",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "やすみ",
+   "kanji": "休み",
+   "pos": "名词",
+   "meaning": "休息，休假",
+   "order": 181
+  },
+  {
+   "id": "w10-182",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "アルバイト",
+   "pos": "名词",
+   "meaning": "打工",
+   "order": 182
+  },
+  {
+   "id": "w10-183",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "アルバイトします （アルバイトする）",
+   "pos": "动词 不",
+   "meaning": "打工",
+   "order": 183
+  },
+  {
+   "id": "w10-184",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "らいしゅう",
+   "kanji": "来週",
+   "pos": "名词",
+   "meaning": "下个星期，下周",
+   "order": 184
+  },
+  {
+   "id": "w10-185",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "どようび",
+   "kanji": "土曜日",
+   "pos": "名词",
+   "meaning": "星期六",
+   "order": 185
+  },
+  {
+   "id": "w10-186",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "サッカー",
+   "pos": "名词",
+   "meaning": "足球",
+   "order": 186
+  },
+  {
+   "id": "w10-187",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "まいあさ",
+   "kanji": "毎朝",
+   "pos": "名词",
+   "meaning": "每天早上",
+   "order": 187
+  },
+  {
+   "id": "w10-188",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "まいばん",
+   "kanji": "毎晩",
+   "pos": "名词",
+   "meaning": "每天晚上",
+   "order": 188
+  },
+  {
+   "id": "w10-189",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "はつおん",
+   "kanji": "発音",
+   "pos": "名词",
+   "meaning": "发音",
+   "order": 189
+  },
+  {
+   "id": "w10-190",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "はつおんします （はつおんする）",
+   "kanji": "発音します",
+   "pos": "动词 不",
+   "meaning": "发音",
+   "order": 190
+  },
+  {
+   "id": "w10-191",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "れんしゅう",
+   "kanji": "練習",
+   "pos": "名词",
+   "meaning": "练习",
+   "order": 191
+  },
+  {
+   "id": "w10-192",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "れんしゅうします （れんしゅうする）",
+   "kanji": "練習します",
+   "pos": "动词 不",
+   "meaning": "练习",
+   "order": 192
+  },
+  {
+   "id": "w10-193",
+   "lesson": 10,
+   "section": "句型",
+   "kana": "まいしゅう",
+   "kanji": "毎週",
+   "pos": "名词",
+   "meaning": "每个星期，每周",
+   "order": 193
+  }
+ ],
+ "grammar": [
+  {
+   "id": "g6-Ⅱ-1",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "1",
+   "ja": "あそこに リンさんが いますよ。",
+   "zh": "那儿有林先生呢。",
+   "romaji": "Asoko ni Rinsan ga imasuyo.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 に 名2 が います。",
+     "note": "场所 ni 人·动物 ga imasu."
+    },
+    {
+     "type": "text",
+     "text": "第 4 课 Ⅱ−１我们学了表示事物存在的说法「あります」。与事物相对，表示人或动物的存在时用「います」。"
+    },
+    {
+     "type": "example",
+     "ja": "きょうしつに がくせいが います。",
+     "zh": "教室里有学生。",
+     "romaji": "Kyooshitsu ni gakusee ga imasu."
+    },
+    {
+     "type": "example",
+     "ja": "あそこに ねこが います。",
+     "zh": "那儿有一只猫。",
+     "romaji": "Asoko ni neko ga imasu."
+    }
+   ],
+   "order": 1
+  },
+  {
+   "id": "g6-Ⅱ-2",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "2",
+   "ja": "（ここに） せんせいは いません。",
+   "zh": "老师不在（这儿）。",
+   "romaji": "(Koko ni) sensee wa imasen.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 に 名2 は いません。",
+     "note": "场所 ni 人·动物 wa imasen."
+    },
+    {
+     "type": "text",
+     "text": "「います」的否定式是「いません」。与「あります」的文型相同，在强调有其他人或其它动物，但没有「名 2」时此否定句中的助词「は」，代替「が」来使用。"
+    },
+    {
+     "type": "example",
+     "ja": "この へやに リンさんは いません。",
+     "zh": "林先生不在这个房间。",
+     "romaji": "Kono heya ni Rinsan wa imasen."
+    },
+    {
+     "type": "example",
+     "ja": "キムさんの うちに いぬは いません。",
+     "zh": "金小姐家没有狗。",
+     "romaji": "Kimusan no uchi ni inu wa imasen."
+    }
+   ],
+   "order": 2
+  },
+  {
+   "id": "g6-Ⅱ-3",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "3",
+   "ja": "リンさんの うしろに アシムさんも いますよ。",
+   "zh": "林先生的后面也有阿希姆先生呢。",
+   "romaji": "Rinsan no ushiro ni Ashimusan mo imasuyo.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 の 名2 に 名3 が います。",
+     "note": "no 位置 ni 人·动物 ga imasu."
+    },
+    {
+     "type": "text",
+     "text": "「〜の まえ / うしろ / そば / となり / みぎ / ひだり等＋に」表示人或动物存在的具体场所、位置。（参见附录９）"
+    },
+    {
+     "type": "example",
+     "ja": "ドアの そばに キムさんが います。",
+     "zh": "金小姐在门旁边。",
+     "romaji": "Doa no soba ni Kimusan ga imasu."
+    },
+    {
+     "type": "example",
+     "ja": "ナンシーさんの まえに リンさんが います。",
+     "zh": "林先生在南希小姐的前面。",
+     "romaji": "Nanshiisan no mae ni Rinsan ga imasu."
+    }
+   ],
+   "order": 3
+  },
+  {
+   "id": "g6-Ⅱ-4",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "4",
+   "ja": "キムさんは まどの そばに います。",
+   "zh": "金小姐在窗户旁边。",
+   "romaji": "Kimusan wa mado no soba ni imasu.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 は 名2 に います。",
+     "note": "人·动物 wa 场所 ni imasu."
+    },
+    {
+     "type": "text",
+     "text": "助词「は」在这里表示主题。叙述人或动物的所在时，放在句首，起提示主题的作用。"
+    },
+    {
+     "type": "example",
+     "ja": "ナンシーさんは きょうしつに います。",
+     "zh": "南希小姐在教室。",
+     "romaji": "Nanshiisan wa kyooshitsu ni imasu."
+    },
+    {
+     "type": "example",
+     "ja": "リンさんは アシムさんの となりに います。",
+     "zh": "林先生在阿希姆先生旁边。",
+     "romaji": "Rinsan wa Ashimusan no tonari ni imasu."
+    }
+   ],
+   "order": 4
+  },
+  {
+   "id": "g6-Ⅱ-5",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "5",
+   "ja": "スミスさんは どの かたですか。",
+   "zh": "史密斯先生是哪位？",
+   "romaji": "Sumisusan wa dono kata desuka.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "どの ＋ 名",
+     "note": "dono"
+    },
+    {
+     "type": "text",
+     "text": "「どの」用于在三个以上的人或事物中，询问表示主题的人或物是哪位或哪个。对于这个提问，可以用第 3 课Ⅱ−1（1）学习过的「この / その / あの＋名」来回答。"
+    },
+    {
+     "type": "example",
+     "ja": "A：やまもとさんは どの かたですか。\nB：（やまもとさんは）あの かたです。",
+     "zh": "A：山本先生是哪位?\nB：（山本先生）是那位。",
+     "romaji": "Yamamotosan wa dono kata desuka.\n( Yamamotosan wa ) ano kata desu."
+    },
+    {
+     "type": "example",
+     "ja": "A：きょうかしょは どの ほんですか。\nB：（きょうかしょは） この ほんです。",
+     "zh": "A：教科书是哪一本？\nB：（教科书）是这本。",
+     "romaji": "Kyookasho wa dono hon desuka.\n( Kyookasho wa ) kono hon desu."
+    }
+   ],
+   "order": 5
+  },
+  {
+   "id": "g6-Ⅱ-6",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "6",
+   "ja": "A：スミスさんは どこの くにの がくせいですか。\nB：アメリカの がくせいです。",
+   "zh": "A：史密斯先生 是哪个国家的学生？\nB：是美国的学生。",
+   "romaji": "Sumisusan wa doko no kuni no gakusee desuka. Amerika no gakusee desu.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "どこの ＋ 名",
+     "note": "doko no"
+    },
+    {
+     "type": "text",
+     "text": "询问「名词」的所属、产地时用「どこの＋名＋ですか」这个句型。"
+    },
+    {
+     "type": "example",
+     "ja": "A：それは どこの カメラですか。\nB：キヤノンの カメラです。",
+     "zh": "A：那是哪个品牌的照相机？\nB：是佳能的照相机。",
+     "romaji": "Sore wa doko no kamera desuka.\nKyanon no kamera desu."
+    }
+   ],
+   "order": 6
+  },
+  {
+   "id": "g6-Ⅱ-7",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "7",
+   "ja": "ナンシーさんの クラスに がくせいが １２にん います。",
+   "zh": "南希小姐的班里有 12 名学生。",
+   "romaji": "Nanshiisan no kurasu ni gakusee ga juuninin imasu.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 に 名2 が 数＋量词 います。",
+     "note": "场所 ni 人 ga imasu."
+    },
+    {
+     "type": "text",
+     "text": "「にん」是表示人数的量词。具体读作「ひとり」「ふたり」「さんにん」。请注意发音的变化。（参见附录 2）「数＋量词」放在「います」之前。"
+    },
+    {
+     "type": "example",
+     "ja": "クラスに がくせいが ５にん います。",
+     "zh": "班里有 5 名学生。",
+     "romaji": "Kurasu ni gakusee ga gonin imasu."
+    },
+    {
+     "type": "example",
+     "ja": "この かいしゃに かんこくの かたが ３にん います。",
+     "zh": "这家公司有 3 名韩国人。",
+     "romaji": "Kono kaisha ni Kankoku no kata ga sannin imasu."
+    },
+    {
+     "type": "text",
+     "text": "数量词（数＋量词）后不能加助词。"
+    },
+    {
+     "type": "wrong",
+     "ja": "ホールに がくせいが ３にんが います。"
+    },
+    {
+     "type": "right",
+     "ja": "ホールに がくせいが ３にん います。",
+     "zh": "大厅里有 3 名学生。"
+    },
+    {
+     "type": "text",
+     "text": "询问人数时用疑问词「なんにん」。"
+    },
+    {
+     "type": "example",
+     "ja": "A：としょしつに がくせいが なんにん いますか。\nB：８にん います。",
+     "zh": "A：图书室里有几名学生？\nB：有 8 名。",
+     "romaji": "Toshoshitsu ni gakusee ga nannin imasuka.\nHachinin imasu."
+    }
+   ],
+   "order": 7
+  },
+  {
+   "id": "g6-Ⅱ-8",
+   "lesson": 6,
+   "part": "Ⅱ",
+   "number": "8",
+   "ja": "（ナンシーさんの クラスに） ベトナムの がくせいは いますが、 タイの がくせいは いません。",
+   "zh": "（南希小姐的班里） 有越南的学生， 但是没有泰国的学生。",
+   "romaji": "( Nanshiisan no kurasu ni ) Betonamu no gakusee wa imasu ga, Tai no gakusee wa imasen.",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 は 名2 ですが、名3 は 名4 です。／ 名1 は 形1 ですが、名3 は 形2 です。／ 名1 は 动1 ますが、名3 は 动2 ます。",
+     "note": "wa ... desu ga, ... wa ... desu. / ... masu ga, ... masu."
+    },
+    {
+     "type": "text",
+     "text": "这里的助词「は」表示对比，分别用于各个单句。"
+    },
+    {
+     "type": "text",
+     "text": "助词「が」用来连接前后两个单句，表示前后两句的内容各异。"
+    },
+    {
+     "type": "example",
+     "ja": "この ノートは リンさんのですが、 あの ノートは アシムさんのです。",
+     "zh": "这个笔记本是林先生的， 而那个笔记本是阿希姆先生的。",
+     "romaji": "Kono nooto wa Rinsan no desu ga, ano nooto wa Ashimusan no desu."
+    },
+    {
+     "type": "example",
+     "ja": "れいぞうこの なかに ジュースは ありますが、 ビールは ありません。",
+     "zh": "冰箱里有果汁， 但没有啤酒。",
+     "romaji": "Reezooko no naka ni juusu wa arimasu ga, biiru wa arimasen."
+    },
+    {
+     "type": "example",
+     "ja": "きょうしつに がくせいは いますが、 せんせいは いません。",
+     "zh": "教室里有学生，但没有老师。",
+     "romaji": "Kyooshitsu ni gakusee wa imasu ga, sensee wa imasen."
+    }
+   ],
+   "order": 8
+  },
+  {
+   "id": "g6-Ⅲ-1",
+   "lesson": 6,
+   "part": "Ⅲ",
+   "number": "1",
+   "ja": "あそこに リンさんが いますよ。",
+   "zh": "那儿有林先生呢。",
+   "romaji": "Asoko ni Rinsan ga imasuyo.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "助词「よ」在此表示给对方提供新信息等。「よ」不重读。"
+    },
+    {
+     "type": "example",
+     "ja": "この ほんは リンさんのですよ。",
+     "zh": "这本书是林先生的哦。（对方不知道这本书是谁的）",
+     "romaji": "Kono hon wa Rinsan no desuyo."
+    },
+    {
+     "type": "example",
+     "ja": "ケーキは れいぞうこの なかに ありますよ。",
+     "zh": "蛋糕在冰箱里呢。（对方不知道蛋糕在哪里）",
+     "romaji": "Keeki wa reezooko no naka ni arimasuyo."
+    }
+   ],
+   "order": 9
+  },
+  {
+   "id": "g6-Ⅲ-2",
+   "lesson": 6,
+   "part": "Ⅲ",
+   "number": "2",
+   "ja": "A：せんせいは どこに いますか。／どこですか。\nB：せんせいは となりの へやに います。／となりの へやです。",
+   "zh": "A：老师在哪里？\nB：老师在隔壁的房间里。",
+   "romaji": "A: Sensee wa doko ni imasuka. / doko desuka.\nB: Sensee wa tonari no heya ni imasu. / tonari no heya desu.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "与第 5 课Ⅲ−2 同样，当很明显询问的是场所时，有时可用「です」代替「います」。"
+    }
+   ],
+   "order": 10
+  },
+  {
+   "id": "g6-Ⅲ-3",
+   "lesson": 6,
+   "part": "Ⅲ",
+   "number": "3",
+   "ja": "そうですか。",
+   "zh": "是吗 !",
+   "romaji": "Soo desuka.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "从对方那里获知新的信息时使用的附和回答。"
+    },
+    {
+     "type": "text",
+     "text": "句尾的「か」读降调。"
+    },
+    {
+     "type": "text",
+     "text": "表示「知道了 / 明白了。」「过去我不知道，现在才知道。」的意思。"
+    },
+    {
+     "type": "text",
+     "text": "如果句尾读升调则表示怀疑「真的吗，难以相信。」的意思，所以发音时一定要注意声调。"
+    },
+    {
+     "type": "example",
+     "ja": "A：あの かたは どなたですか。\nB：ユーリアさんです。\nA：そうですか。 ありがとう ございます。",
+     "zh": "A：那位是谁？\nB：是尤莉娅夫人。\nA：是吗，谢谢！",
+     "romaji": "Ano kata wa donata desuka.\nYuuriasan desu.\nSoo desuka. Arigatoo gozaimasu."
+    },
+    {
+     "type": "example",
+     "ja": "A：リンさんは ちゅうごくの かたです。\nB：そうですか。",
+     "zh": "A：林先生是中国人。\nB：是吗 !",
+     "romaji": "Rinsan wa Chuugoku no kata desu.\nSoo desuka."
+    }
+   ],
+   "order": 11
+  },
+  {
+   "id": "g6-Ⅲ-4",
+   "lesson": 6,
+   "part": "Ⅲ",
+   "number": "4",
+   "ja": "（１） おげんきですか。\n（2） おかげさまで げんきです。",
+   "zh": "你好吗？\n谢谢，很好。／托您的福，很好。",
+   "romaji": "Ogenki desuka. Okagesamade, genki desu.",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "用于询问话题中出现的人物的样子，或用于与很久未见的朋友见面时的寒暄。"
+    },
+    {
+     "type": "text",
+     "text": "回答「おげんきですか」时，也可以只说「おかげさまで」。"
+    },
+    {
+     "type": "text",
+     "text": "「おかげさまで」本来是对别人给予的照顾或帮助表示感谢的话，但也可以作为一般的寒暄语使用。"
+    }
+   ],
+   "order": 12
+  },
+  {
+   "id": "g7-Ⅱ-1",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "1",
+   "ja": "この おおきい ビルは なんですか。",
+   "zh": "这栋大楼是什么楼？",
+   "preNote": "●イ形容词・ナ形容词\n日语的形容词分为イ形容词和ナ形容词，用来表示人或事物的性质或状态。如 ：形状、状态、\n程度、规模、材料、性质等，还可以表示说话人对某种事物的感情。\n形容词基本上有两种用法 ：①放在名词前面修饰名词②位于句尾。\n①修饰名词时",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "イ形 ＋ 名"
+    },
+    {
+     "type": "text",
+     "text": "修饰名词时以「〜い」结尾的叫做イ形容词。"
+    },
+    {
+     "type": "example",
+     "ja": "ここは ひろい へやです。",
+     "zh": "这是宽敞的房间。"
+    },
+    {
+     "type": "example",
+     "ja": "これは あたらしい かばんです。",
+     "zh": "这是新的包。"
+    },
+    {
+     "type": "text",
+     "text": "关于人物、事物、场所等，询问其性质、状态时用疑问词「どんな」。"
+    },
+    {
+     "type": "text",
+     "text": "「どんな」的后面一定要接名词。对于其提问多用形容词来回答。"
+    },
+    {
+     "type": "example",
+     "ja": "A：キムさんの かばんは どんな かばんですか。\nB：ちいさい かばんです。",
+     "zh": "A：金小姐的包是什么样的包？\nB：是小的包。"
+    }
+   ],
+   "order": 13
+  },
+  {
+   "id": "g7-Ⅱ-2",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "2",
+   "ja": "（わたしの まちは） にぎやかな まちです。",
+   "zh": "（我住的城市）是个热闹的城市。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "ナ形 な ＋ 名"
+    },
+    {
+     "type": "text",
+     "text": "修饰名词时以「な」结尾的叫做ナ形容词。"
+    },
+    {
+     "type": "example",
+     "ja": "きょうとは しずかな まちです。",
+     "zh": "京都是座安静的城市。"
+    },
+    {
+     "type": "note",
+     "text": "「きれい」「ゆうめい」不是イ形容词，而是ナ形容词。"
+    },
+    {
+     "type": "example",
+     "ja": "きょうとは きれいな まちです。",
+     "zh": "京都是座美丽的城市。"
+    },
+    {
+     "type": "text",
+     "text": "询问公司等的种类时，不用「どんな」，而用「なんの」。"
+    },
+    {
+     "type": "example",
+     "ja": "A：トヨタは どんな かいしゃですか。\nB：おおきい かいしゃです。",
+     "zh": "A：丰田是怎样的公司？\nB：是大公司。"
+    },
+    {
+     "type": "example",
+     "ja": "A：トヨタは なんの かいしゃですか。\nB：くるまの かいしゃです。",
+     "zh": "A：丰田是什么公司？\nB：是汽车公司。"
+    },
+    {
+     "type": "text",
+     "text": "②位于句尾时"
+    }
+   ],
+   "order": 14
+  },
+  {
+   "id": "g7-Ⅱ-3",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "3",
+   "ja": "キムさんの アパートは あたらしいですか。",
+   "zh": "金小姐的公寓是新的吗？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 は イ形 です。"
+    },
+    {
+     "type": "text",
+     "text": "イ形容词后面接「です」时，直接在后面加「です」。"
+    },
+    {
+     "type": "example",
+     "ja": "この じしょは おもいです。",
+     "zh": "这本词典很重。"
+    },
+    {
+     "type": "example",
+     "ja": "この アパートは ふるいです。",
+     "zh": "这所公寓很旧。"
+    }
+   ],
+   "order": 15
+  },
+  {
+   "id": "g7-Ⅱ-4",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "4",
+   "ja": "わたしの アパートは あたらしく ないです。",
+   "zh": "我的公寓不新。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 は イ形 く ないです。"
+    },
+    {
+     "type": "text",
+     "text": "イ形容词的否定式是：将「い」变为「く ｣，再加「ない ｣。"
+    },
+    {
+     "type": "text",
+     "text": "ひろいです → ひろく ないです"
+    },
+    {
+     "type": "text",
+     "text": "おおきいです → おおきく ないです「いい」的否定式是：「よくない」。"
+    },
+    {
+     "type": "text",
+     "text": "＊いいです → よく ないです"
+    },
+    {
+     "type": "example",
+     "ja": "あの ビルは おおきく ないです。",
+     "zh": "那栋楼不大。"
+    },
+    {
+     "type": "example",
+     "ja": "この かばんは おもく ないです。",
+     "zh": "这个书包不重。"
+    }
+   ],
+   "order": 16
+  },
+  {
+   "id": "g7-Ⅱ-5",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "5",
+   "ja": "（リンさんの） アパートは しずかですか。",
+   "zh": "（林先生的）公寓安静吗？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 は ナ形 です。"
+    },
+    {
+     "type": "text",
+     "text": "ナ形容词后面接「です」时，去掉「な」再加「です」。"
+    },
+    {
+     "type": "example",
+     "ja": "しぶやは にぎやかです。",
+     "zh": "涩谷很热闹。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしの へやは きれいです。",
+     "zh": "我的房间很干净。"
+    }
+   ],
+   "order": 17
+  },
+  {
+   "id": "g7-Ⅱ-6",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "6",
+   "ja": "（わたしの アパートは） しずかでは ありません。",
+   "zh": "（我的公寓）不安静。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 は ナ形 では（じゃ） ありません。"
+    },
+    {
+     "type": "text",
+     "text": "ナ形容词的否定式和名词的否定式相同。去掉「です」加「では ありません / じゃ ありません」即可。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしの まちは にぎやかでは ありません。",
+     "zh": "我住的城市不热闹。"
+    },
+    {
+     "type": "example",
+     "ja": "この みせは ゆうめいじゃ ありません。",
+     "zh": "这个店不出名。"
+    }
+   ],
+   "order": 18
+  },
+  {
+   "id": "g7-Ⅱ-7",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "7",
+   "ja": "（わたしの へやは） ひろい へやです。そして あかるい へやです。",
+   "zh": "（我的房间）很宽敞，而且是很明亮的房间。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "文1。 そして 文2。"
+    },
+    {
+     "type": "text",
+     "text": "「そして」承接前文内容，后面接与之相似的状态・性质等句子。"
+    },
+    {
+     "type": "example",
+     "ja": "この かさは おおきいです。そして おもいです。",
+     "zh": "这把伞很大，而且很重。"
+    },
+    {
+     "type": "example",
+     "ja": "この としょかんは しずかです。そして きれいです。",
+     "zh": "这个图书馆很安静， 而且很漂亮。"
+    }
+   ],
+   "order": 19
+  },
+  {
+   "id": "g7-Ⅱ-8",
+   "lesson": 7,
+   "part": "Ⅱ",
+   "number": "8",
+   "ja": "わたしの へやは せまい へやです。 けれども きれいな へやです。",
+   "zh": "我的房间很狭窄，但是很漂亮。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "文1。 けれども 文2。"
+    },
+    {
+     "type": "text",
+     "text": "是用来连接前后内容相互矛盾・相互对立时使用的接续词。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしの かばんは おおきい かばんです。 けれども かるいです。",
+     "zh": "我的书包虽然很大， 但是很轻。"
+    }
+   ],
+   "order": 20
+  },
+  {
+   "id": "g7-Ⅲ-1",
+   "lesson": 7,
+   "part": "Ⅲ",
+   "number": "1",
+   "ja": "わたしの へやは あかるい へやです。 キムさんの へやは。",
+   "zh": "我的房间很明亮。金小姐的房间呢？",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "「キムさんの へやは。」是「キムさんの へやは あかるいですか、くらいですか。」的"
+    },
+    {
+     "type": "text",
+     "text": "省略说法。当要询问的内容很明确时，有时会省略后面的谓语。"
+    },
+    {
+     "type": "text",
+     "text": "这句话虽然是疑问句，但日语里因为没有「？」，所以用「。」。"
+    },
+    {
+     "type": "text",
+     "text": "句尾要读升调，以表示疑问。"
+    }
+   ],
+   "order": 21
+  },
+  {
+   "id": "g8-Ⅱ-1",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "1",
+   "ja": "りんごは ８０えんです。",
+   "zh": "苹果是 80 日元。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 は 〜えん です。",
+     "note": "物品 价钱"
+    },
+    {
+     "type": "text",
+     "text": "「〜円」是日本的货币单位。"
+    },
+    {
+     "type": "text",
+     "text": "要注意４円（よえん）９円（きゅうえん）等的发音。（参见附录２）"
+    },
+    {
+     "type": "text",
+     "text": "询问价钱时用疑问词「いくら」。"
+    },
+    {
+     "type": "example",
+     "ja": "A：この ほんは いくらですか。\nB：３００えんです。",
+     "zh": "A：这本书多少钱？\nB：300 日元。"
+    }
+   ],
+   "order": 22
+  },
+  {
+   "id": "g8-Ⅱ-2",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "2",
+   "ja": "りんごを ください。",
+   "zh": "请给我苹果。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 を ください。",
+     "note": "想要买的东西"
+    },
+    {
+     "type": "text",
+     "text": "购物时，跟售货员讲自己想要买的东西或想要的东西时的说法。"
+    },
+    {
+     "type": "example",
+     "ja": "きってを ください。",
+     "zh": "请给我邮票。"
+    },
+    {
+     "type": "text",
+     "text": "数（＋量词）放在「ください」的前面。"
+    },
+    {
+     "type": "example",
+     "ja": "はがきを １０まい ください。",
+     "zh": "请给我 10 张明信片。"
+    }
+   ],
+   "order": 23
+  },
+  {
+   "id": "g8-Ⅱ-3",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "3",
+   "ja": "（りんごは） １つ ８０えんです。",
+   "zh": "（苹果是）一个 80 日元。",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "「ひとつ〜とお」是表示数量的一种说法，泛数一般物体。"
+    },
+    {
+     "type": "text",
+     "text": "表示物品的数量时，像「１まい」、「２ほん」这样，在 1、2、3･･･ 的后面加「まい」或「ほん」等量词。当不用量词时，则用「ひとつ」「ふたつ」「みっつ」･･･ 来表示。11 以上的像「じゅういち」「じゅうに」这样，用数字来数。（参见附录 2）"
+    }
+   ],
+   "order": 24
+  },
+  {
+   "id": "g8-Ⅱ-4",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "4",
+   "ja": "りんごを ください。 それから トマトも ください。",
+   "zh": "请给我苹果，还有西红柿。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "文1。それから 文2。"
+    },
+    {
+     "type": "text",
+     "text": "接续词，放在两个句子中间，表示并列。"
+    },
+    {
+     "type": "example",
+     "ja": "みかんを ３つ ください。 それから りんごを ２つ ください。",
+     "zh": "请给我 3 个桔子。 还有再给我 2 个苹果。"
+    },
+    {
+     "type": "text",
+     "text": "两个句子并列时不能用第 4 课Ⅱ−4 学的「と」来连接。"
+    },
+    {
+     "type": "text",
+     "text": "名词与名词之间用「と」来连接。"
+    },
+    {
+     "type": "wrong",
+     "ja": "みかんを ３つ ください。と りんごを ２つ ください。"
+    }
+   ],
+   "order": 25
+  },
+  {
+   "id": "g8-Ⅱ-5",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "5",
+   "ja": "ちいさいのは ２つで ２００えんです。",
+   "zh": "小的（西红柿）是两个 200 日元。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "イ形 / の / ナ形 な"
+    },
+    {
+     "type": "text",
+     "text": "「の」在这里用来代替名词。用イ形容词＋「の」、ナ形容词＋な＋「の」，使之与名词有同样的用法。在文章中，当同一个名词被反复使用，或者明确知道那个名词是什么时，为了避免重复而使用「の」。"
+    },
+    {
+     "type": "example",
+     "ja": "あの おおきいのは わたしの かばんです。",
+     "zh": "那个大的是我的书包。"
+    },
+    {
+     "type": "example",
+     "ja": "この きれいなのは プレゼントです。",
+     "zh": "这个漂亮的是礼物。"
+    }
+   ],
+   "order": 26
+  },
+  {
+   "id": "g8-Ⅱ-6",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "6",
+   "ja": "ちいさいのは ２つで ２００えんです。",
+   "zh": "小的（西红柿）是两个 200 日元。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 で 名2 です。",
+     "note": "合计 价钱"
+    },
+    {
+     "type": "text",
+     "text": "这里的「で」在此表示合计金额为多少时使用。"
+    },
+    {
+     "type": "example",
+     "ja": "みかんは ４つで ３００えんです。",
+     "zh": "四个桔子 300 日元。"
+    },
+    {
+     "type": "example",
+     "ja": "ぜんぶで ３００えんです。",
+     "zh": "一共 300 日元。"
+    },
+    {
+     "type": "text",
+     "text": "当物品的单位是一个时不用「で」。"
+    },
+    {
+     "type": "example",
+     "ja": "トマトは １つ １００えんです。",
+     "zh": "一个西红柿 100 日元。"
+    },
+    {
+     "type": "example",
+     "ja": "きっては １まい ５０えんです。",
+     "zh": "一张邮票 50 日元。"
+    }
+   ],
+   "order": 27
+  },
+  {
+   "id": "g8-Ⅱ-7",
+   "lesson": 8,
+   "part": "Ⅱ",
+   "number": "7",
+   "ja": "１,０００えんで おねがいします。",
+   "zh": "这是 1000 日元，请结帐。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 で おねがいします。",
+     "note": "限定条件"
+    },
+    {
+     "type": "text",
+     "text": "用于请求别人按限定条件做某事时。"
+    },
+    {
+     "type": "text",
+     "text": "限定条件放在「で」前。"
+    },
+    {
+     "type": "example",
+     "ja": "１,０００えんで おねがいします。",
+     "zh": "这是 1000 日元，请结帐。"
+    },
+    {
+     "type": "example",
+     "ja": "カードで おねがいします。",
+     "zh": "请用信用卡结帐。"
+    }
+   ],
+   "order": 28
+  },
+  {
+   "id": "g8-Ⅲ-1",
+   "lesson": 8,
+   "part": "Ⅲ",
+   "number": "1",
+   "ja": "いらっしゃいませ。",
+   "zh": "欢迎光临 !",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "售货员对顾客表示欢迎的寒暄语。"
+    }
+   ],
+   "order": 29
+  },
+  {
+   "id": "g8-Ⅲ-2",
+   "lesson": 8,
+   "part": "Ⅲ",
+   "number": "2",
+   "ja": "A：ぜんぶで ８００えんです。\nB：はい。１,０００えんで おねがいします。",
+   "zh": "A：一共 800 日元。\nB：给您，这是 1000 日元，请结帐。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "はい。 〜",
+     "note": "希望引起对方的注意·关注的事"
+    },
+    {
+     "type": "text",
+     "text": "「はい」还可用于提醒对方时，也常用于递给对方东西时。"
+    },
+    {
+     "type": "example",
+     "ja": "A：せんせい、かみを おねがいします。\nB：はい。",
+     "zh": "A：老师，请给我纸。\nB：好的，给你。"
+    }
+   ],
+   "order": 30
+  },
+  {
+   "id": "g8-Ⅲ-3",
+   "lesson": 8,
+   "part": "Ⅲ",
+   "number": "3",
+   "ja": "A：１,０００えんで おねがいします。\nB：２００えんの おつりです。 ありがとう ございました。",
+   "zh": "A：这是 1000 日元，请结帐。\nB：找给您 200 日元。谢谢。",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "第 2 课Ⅲ−2（2）中我们学习了「ありがとう ございます」。对于已经结束的行为也可以用其过去式「ありがとう ございました」来表达感谢。"
+    }
+   ],
+   "order": 31
+  },
+  {
+   "id": "g9-Ⅱ-1",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "1",
+   "ja": "わたしは カレーライスを たべます。",
+   "zh": "我吃咖喱饭。",
+   "preNote": "●动词 〜ます／〜ません／〜ました／〜ませんでした\n在日语句中，动词「〜ます／〜ません／〜ました／〜ませんでした」要放在句尾。词尾部\n分根据不同的时态及肯定与否定将发生如下变化∶\n非过去式 过去式\n肯定式 否定式 肯定式 否定式\n〜ます 〜ません 〜ました 〜ませんでした\nのみます のみません のみました のみませんでした\nたべます たべません たべました たべませんでした\nみます みません みました みませんでした",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 を 动 ます。",
+     "note": "对象"
+    },
+    {
+     "type": "text",
+     "text": "「を」是表示动词宾语的助词。助词不用「お」而用「を」。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは あした えいがを みます。",
+     "zh": "我明天看电影。／我明天要看电影。"
+    },
+    {
+     "type": "example",
+     "ja": "キムさんは きのう くつを かいました。",
+     "zh": "金小姐昨天买鞋子了。"
+    }
+   ],
+   "order": 32
+  },
+  {
+   "id": "g9-Ⅱ-2",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "2",
+   "ja": "ナンシーさんは なにを たべますか。",
+   "zh": "南希小姐吃什么？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "动 ます。"
+    },
+    {
+     "type": "text",
+     "text": "｢ 动ます ｣ 表示将来发生的动作。"
+    },
+    {
+     "type": "text",
+     "text": "如果是说话人自身的动作，那么，｢ 动ます ｣ 不仅仅表示计划，有时还可表示说话人的意向。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは コーヒーを のみます。",
+     "zh": "我喝咖啡。／我要喝咖啡。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは きょう しゅくだいを します。",
+     "zh": "我今天做作业。/ 我今天要做作业。"
+    }
+   ],
+   "order": 33
+  },
+  {
+   "id": "g9-Ⅱ-3",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "3",
+   "ja": "サラダは たべません。",
+   "zh": "（我）不吃色拉。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "动 ません。"
+    },
+    {
+     "type": "text",
+     "text": "「动ます」的否定式。表示将来不做该动作。如果是说话人自身的动作，那么，不仅仅表示计划，有时还可表示说话人否定的意向。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは きょう テレビを みません。",
+     "zh": "我今天不看电视。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは きょうの よる、 おさけを のみません。",
+     "zh": "我今天晚上不喝酒。"
+    },
+    {
+     "type": "text",
+     "text": "在否定句中，当与其他宾语对比强调时，助词不用「を」而用「は」。"
+    },
+    {
+     "type": "example",
+     "ja": "サンドイッチを たべます。 サラダは たべません。",
+     "zh": "（我）吃三明治， 但不吃色拉。"
+    }
+   ],
+   "order": 34
+  },
+  {
+   "id": "g9-Ⅱ-4",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "4",
+   "ja": "リンさんは きのう なにを しましたか。",
+   "zh": "林先生昨天做什么了？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "动 ました。"
+    },
+    {
+     "type": "text",
+     "text": "｢ 动ました」是「动ます」的过去式，表示过去的动作。"
+    },
+    {
+     "type": "example",
+     "ja": "ナンシーさんは きのう きょうかしょを よみました。",
+     "zh": "南希小姐昨天读教科书了。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは きのう えいがを みました。",
+     "zh": "我昨天看电影了。"
+    }
+   ],
+   "order": 35
+  },
+  {
+   "id": "g9-Ⅱ-5",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "5",
+   "ja": "（きょうかしょの かいわは） ききませんでした。",
+   "zh": "（教科书中的会话） 我没有听。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "动 ませんでした。"
+    },
+    {
+     "type": "text",
+     "text": "「动ました」的否定式。表示过去没发生该动作。"
+    },
+    {
+     "type": "example",
+     "ja": "キムさんは きのう べんきょうを しませんでした。",
+     "zh": "金小姐昨天没有学习。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは きのう てがみを かきませんでした。",
+     "zh": "我昨天没写信。"
+    }
+   ],
+   "order": 36
+  },
+  {
+   "id": "g9-Ⅱ-6",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "6",
+   "ja": "わたしは としょかんで ほんを よみました。",
+   "zh": "我在图书馆读书了。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 で 动",
+     "note": "场所"
+    },
+    {
+     "type": "text",
+     "text": "助词「で」在这里表示动作进行的场所。"
+    },
+    {
+     "type": "example",
+     "ja": "うちで テレビを みます。",
+     "zh": "在家里看电视。"
+    },
+    {
+     "type": "example",
+     "ja": "レストランで ばんごはんを たべました。",
+     "zh": "在餐厅吃了晚饭。"
+    }
+   ],
+   "order": 37
+  },
+  {
+   "id": "g9-Ⅱ-7",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "7",
+   "ja": "わたしは キムさんと いっしょに レストランで ひるごはんを たべました。",
+   "zh": "我和金小姐一起在餐厅吃了午饭。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 と （いっしょに） 动",
+     "note": "动作和行为的同伴"
+    },
+    {
+     "type": "text",
+     "text": "「と」是表示一起做某个动作的人的助词。"
+    },
+    {
+     "type": "example",
+     "ja": "ちちと テレビを みました。",
+     "zh": "我和父亲一起看电视了。"
+    },
+    {
+     "type": "example",
+     "ja": "ともだちと いっしょに テニスを しました。",
+     "zh": "和朋友一起打网球了。"
+    }
+   ],
+   "order": 38
+  },
+  {
+   "id": "g9-Ⅱ-8",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "8",
+   "ja": "きょうの よる （きょうかしょの かいわを） ききます。 それから かんじを かきます。",
+   "zh": "今天晚上听（教科书的会话）。 然后写汉字。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "文1。 それから 文2。"
+    },
+    {
+     "type": "text",
+     "text": "第 8 课Ⅱ−4 我们学习了用「それから」连接两个并列句的用法。"
+    },
+    {
+     "type": "text",
+     "text": "本课的「それから」表示做某个动作之后又做另一个动作。"
+    },
+    {
+     "type": "example",
+     "ja": "えいがを みます。 それから デパートで ふくを かいます。",
+     "zh": "看电影， 然后去百货商场买衣服。"
+    },
+    {
+     "type": "example",
+     "ja": "きょうの あさ しんぶんを よみました。 それから あさごはんを たべました。",
+     "zh": "今天早上我看了报纸， 然后吃了早饭。"
+    }
+   ],
+   "order": 39
+  },
+  {
+   "id": "g9-Ⅱ-9",
+   "lesson": 9,
+   "part": "Ⅱ",
+   "number": "9",
+   "ja": "ナンシーさんは かんじの ほんが ありますか。",
+   "zh": "南希小姐，你有汉字的书吗？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 は 名2 が あります。",
+     "note": "人 物"
+    },
+    {
+     "type": "text",
+     "text": "「あります」本来表示事物的存在，这里的「あります」表示主题的人物拥有某种事物的意思。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは テレビが あります。",
+     "zh": "我有电视机。"
+    },
+    {
+     "type": "example",
+     "ja": "ナンシーさんは コンピューターが あります。",
+     "zh": "南希小姐有电脑。"
+    }
+   ],
+   "order": 40
+  },
+  {
+   "id": "g9-Ⅲ-1",
+   "lesson": 9,
+   "part": "Ⅲ",
+   "number": "1",
+   "ja": "A：にほんごの べんきょうも しましたか。\nB：ええ。",
+   "zh": "A：也学习日语了吗？\nB：对。",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "「ええ」用于表示肯定或承诺。不能用于对指示的回答。"
+    }
+   ],
+   "order": 41
+  },
+  {
+   "id": "g10-Ⅱ-1",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "1",
+   "ja": "今 ７時 １０分です。",
+   "zh": "现在 7 点 10 分。",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "「時」「分」是时间单位。"
+    },
+    {
+     "type": "text",
+     "text": "需要注意 4（よ）時，9（く）時等的发音。（参见附录 3）"
+    },
+    {
+     "type": "text",
+     "text": "根据「ふん」前的数字，「〜ふん」有的读做「ふん」；有的读做「ぷん」。（参见附录 3）"
+    },
+    {
+     "type": "text",
+     "text": "询问时间时用疑问词「何時」。"
+    },
+    {
+     "type": "example",
+     "ja": "A：今 何時ですか。\nB：８時 １０分です。",
+     "zh": "A：现在几点了？\nB：8 点 10 分。"
+    },
+    {
+     "type": "text",
+     "text": "「8 時 50 分」也可以说「9時 10 分前（差十分九点）」。"
+    }
+   ],
+   "order": 42
+  },
+  {
+   "id": "g10-Ⅱ-2",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "2",
+   "ja": "月曜日と 木曜日に うちの ちかくの プールで およぎます。",
+   "zh": "星期一和星期四 在我家附近的游泳池游泳。",
+   "blocks": [
+    {
+     "type": "text",
+     "text": "「〜ようび」表示星期〜。"
+    },
+    {
+     "type": "text",
+     "text": "询问星期几时，用疑问词「何曜日」。"
+    },
+    {
+     "type": "example",
+     "ja": "A：テストは 何曜日ですか。\nB：テストは 金曜日です。",
+     "zh": "A：星期几考试？\nB：星期五考试。"
+    }
+   ],
+   "order": 43
+  },
+  {
+   "id": "g10-Ⅱ-3",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "3",
+   "ja": "９時から １２時半まで 勉強を します。",
+   "zh": "从 9 点到 12 点半学习。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名1 から 名2 まで 动ます。／ です。",
+     "note": "名1：开始的时间·时期　名2：结束的时间·时期"
+    },
+    {
+     "type": "text",
+     "text": "「から」用于表示时间·时期的起点。"
+    },
+    {
+     "type": "text",
+     "text": "「まで」用于表示时间·时期的终点。"
+    },
+    {
+     "type": "text",
+     "text": "「です」句和「ます」句都可以使用。"
+    },
+    {
+     "type": "example",
+     "ja": "銀行は ９時から １２時半までです。",
+     "zh": "银行从 9 点到 12 点半（营业）。"
+    },
+    {
+     "type": "example",
+     "ja": "９時から ５時まで はたらきます。",
+     "zh": "从 9 点工作到 5 点。"
+    },
+    {
+     "type": "example",
+     "ja": "月曜日から 金曜日まで 学校で 勉強を します。",
+     "zh": "从星期一到星期五在学校学习。"
+    },
+    {
+     "type": "text",
+     "text": "「から」「まで」还可以单独使用。"
+    },
+    {
+     "type": "example",
+     "ja": "会社は ９時からです。",
+     "zh": "公司（从）9 点开始上班。"
+    },
+    {
+     "type": "example",
+     "ja": "リンさんは １２時まで 勉強を します。",
+     "zh": "林先生学习到 12 点。"
+    }
+   ],
+   "order": 44
+  },
+  {
+   "id": "g10-Ⅱ-4",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "4",
+   "ja": "ひろしさんは 何時に おきますか。",
+   "zh": "ひろし先生几点起床？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 に 动",
+     "note": "时刻・时期"
+    },
+    {
+     "type": "text",
+     "text": "「に」表示动作发生的时间或时期。"
+    },
+    {
+     "type": "example",
+     "ja": "ひろしさんは １０時半に ねます。",
+     "zh": "ひろし先生 10 点半睡觉。"
+    },
+    {
+     "type": "example",
+     "ja": "木曜日に プールで およぎます。",
+     "zh": "星期四在游泳池游泳。"
+    },
+    {
+     "type": "text",
+     "text": "「きのう・今日・明日・毎日・朝」等不表示具体日期或时间（９月・11 時・水曜日）的词后不加「に」。（参见附录 4）"
+    },
+    {
+     "type": "wrong",
+     "ja": "きのうに うちで 本を 読みました。"
+    },
+    {
+     "type": "right",
+     "ja": "きのう うちで 本を 読みました。",
+     "zh": "昨天在家读书了。"
+    },
+    {
+     "type": "text",
+     "text": "「ごろ」接在时间或时期等词后，表示时间的近似值。"
+    },
+    {
+     "type": "text",
+     "text": "「ごろ」后一般不加「に」。"
+    },
+    {
+     "type": "example",
+     "ja": "毎晩 ８時ごろ 晩ご飯を 食べます。",
+     "zh": "每天晚上 8 点左右吃晚饭。"
+    }
+   ],
+   "order": 45
+  },
+  {
+   "id": "g10-Ⅱ-5",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "5",
+   "ja": "キムさんは 毎日 およぎますか。",
+   "zh": "金小姐每天都游泳吗？",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "动 ます。",
+     "note": "习惯性的动作"
+    },
+    {
+     "type": "text",
+     "text": "第 9 课Ⅱ−2 我们学习了「动ます」表示将来的动作的用法，此外，还可以表示习惯性的动作或反复的事情。"
+    },
+    {
+     "type": "example",
+     "ja": "毎日 ７時に おきます。",
+     "zh": "每天 7 点起床。"
+    },
+    {
+     "type": "example",
+     "ja": "毎週 日曜日に テニスを します。",
+     "zh": "每个星期天都打网球。"
+    }
+   ],
+   "order": 46
+  },
+  {
+   "id": "g10-Ⅱ-6",
+   "lesson": 10,
+   "part": "Ⅱ",
+   "number": "6",
+   "ja": "A：毎日 およぎますか。\nB：いいえ、毎日じゃ ありません。",
+   "zh": "A：你每天都游泳吗？\nB：不，不是每天。",
+   "blocks": [
+    {
+     "type": "pattern",
+     "text": "名 では ありません。",
+     "note": "名：全部·总是　では（じゃ）"
+    },
+    {
+     "type": "text",
+     "text": "表示否定一部分。"
+    },
+    {
+     "type": "text",
+     "text": "否定表示「全部（全部）・いつも（总是）」等意思的词。"
+    },
+    {
+     "type": "example",
+     "ja": "A：毎日 勉強を しますか。\nB：いいえ、毎日じゃ ありません。",
+     "zh": "A：你每天都学习吗？\nB：不，不是每天。"
+    },
+    {
+     "type": "example",
+     "ja": "A：ぜんぶ 食べましたか。\nB：いいえ、ぜんぶじゃ ありません。",
+     "zh": "A：你全吃了吗？\nB：没全吃。"
+    },
+    {
+     "type": "text",
+     "text": "下面的例句不是否定一部分，而是否定全句。"
+    },
+    {
+     "type": "example",
+     "ja": "わたしは 毎日 およぎません。",
+     "zh": "我每天都不游泳。"
+    }
+   ],
+   "order": 47
+  }
+ ],
+ "warnings": []
+}

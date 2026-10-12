@@ -1,0 +1,36 @@
+{
+  "grammar": {
+    "g6-Ⅱ-8": {
+      "pattern": "名1 は 名2 ですが、名3 は 名4 です。／ 名1 は 形1 ですが、名3 は 形2 です。／ 名1 は 动1 ますが、名3 は 动2 ます。",
+      "patternNote": "wa ... desu ga, ... wa ... desu. / ... masu ga, ... masu."
+    },
+    "g6-Ⅲ-1": {
+      "removeBlocks": ["どこに いますか。"]
+    },
+    "g6-Ⅲ-2": {
+      "ja": "A：せんせいは どこに いますか。／どこですか。\nB：せんせいは となりの へやに います。／となりの へやです。",
+      "zh": "A：老师在哪里？\nB：老师在隔壁的房间里。",
+      "romaji": "A: Sensee wa doko ni imasuka. / doko desuka.\nB: Sensee wa tonari no heya ni imasu. / tonari no heya desu.",
+      "blocks": [
+        { "type": "text", "text": "与第 5 课Ⅲ−2 同样，当很明显询问的是场所时，有时可用「です」代替「います」。" }
+      ]
+    },
+    "g7-Ⅱ-6": {
+      "pattern": "名 は ナ形 では（じゃ） ありません。"
+    },
+    "g8-Ⅲ-2": {
+      "ja": "A：ぜんぶで ８００えんです。\nB：はい。１,０００えんで おねがいします。",
+      "pattern": "はい。 〜",
+      "patternNote": "希望引起对方的注意·关注的事",
+      "removeBlocks": ["希望引起对方的注意·关注的事"]
+    },
+    "g10-Ⅱ-3": {
+      "pattern": "名1 から 名2 まで 动ます。／ です。",
+      "patternNote": "名1：开始的时间·时期　名2：结束的时间·时期"
+    },
+    "g10-Ⅱ-6": {
+      "patternNote": "名：全部·总是　では（じゃ）",
+      "removeBlocks": ["全部·总是 （じゃ）"]
+    }
+  }
+}

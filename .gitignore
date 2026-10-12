@@ -1,0 +1,7 @@
+node_modules
+dist
+dev-dist
+*.local
+.DS_Store
+# 教材 PDF 仅供个人学习，不入库
+fixtures/*.pdf
